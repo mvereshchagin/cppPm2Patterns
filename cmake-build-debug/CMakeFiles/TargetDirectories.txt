@@ -1,0 +1,3 @@
+/mnt/data/Misha/Projects/cpp/pm3pettrns/cmake-build-debug/CMakeFiles/pm3pettrns.dir
+/mnt/data/Misha/Projects/cpp/pm3pettrns/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/data/Misha/Projects/cpp/pm3pettrns/cmake-build-debug/CMakeFiles/rebuild_cache.dir
